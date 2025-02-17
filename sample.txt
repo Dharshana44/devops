@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 HEAD
 today is friday
 
 
+=======
+hello world
+>>>>>>> f451e49 (initial commit)
