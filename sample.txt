@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 today is friday
+=======
+
